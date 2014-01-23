@@ -1,0 +1,1 @@
+{ "options" : { "create" : "gb" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "test.gb", "name" : "_id_" } ] }
